@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of Dr. Bernards to a friend of his at court</title>
+            <author>Bernard, Nicholas, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27495</idno>
+            <idno type="STC">Wing B2010</idno>
+            <idno type="STC">ESTC R11731</idno>
+            <idno type="EEBO-CITATION">11687811</idno>
+            <idno type="OCLC">ocm 11687811</idno>
+            <idno type="VID">48177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 14:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of Dr. Bernards to a friend of his at court</title>
+                  <author>Bernard, Nicholas, d. 1661.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:48177:1"/>
+            <pb facs="tcp:48177:1" rendition="simple:additions"/>
+            <head>A Letter of Dr. <hi>Bernards</hi> to a Friend of his at COURT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving heard by ſome of my Friends, that there is a miſ<g ref="char:EOLhyphen"/>apprehenſion of me at Court by ſuch as know me not, be<g ref="char:EOLhyphen"/>cauſe of my acquaintance with <hi>Oliver Cromwel,</hi> I have (by their advice) thought it expedient for my own vindicati<g ref="char:EOLhyphen"/>on to declare both my <hi>Sufferings</hi> by him for his <hi>Majeſties</hi> cauſe in <hi>Ireland,</hi> and the continuance of them in <hi>England,</hi> and that the fruits of my frequent viſiting him, was reaped by <hi>others,</hi> and not by <hi>my ſelf,</hi> in being an Inſtrument of <hi>Preſerving</hi> the <hi>Lives</hi> and <hi>Eſtates,</hi> and <hi>Releiving</hi> the <hi>Diſtreſſes</hi> of ſuch as had ſuffered for his <hi>Majeſty,</hi> which was my continued agencie, even for <hi>ſtrang<g ref="char:EOLhyphen"/>ers,</hi> as thoſe that had been known to me, of each of which ſome are here mentioned. Whereunto (with the like advice) I have added a brief relation of my Sufferings, (being ſo variouſly reported) <hi>in</hi> the <hi>Storme of Drogheda</hi> and <hi>after</hi> it, an. <hi>1649.</hi> with a ſatiſ<g ref="char:EOLhyphen"/>faction in ſome particulars miſunderſtood, as to the Office of <hi>Almo<g ref="char:EOLhyphen"/>ner,</hi> which herewith I have ſent unto you, and do commit it to your prudence, as there ſhall be occaſion. I omit my Sufferings in the <hi>Seige</hi> of <hi>Drogheda, an. 1641.</hi> by the <hi>Iriſh Rebells 4.</hi> months, the whole narration of which, was by ſpecial order publiſhed, wherein their <hi>ſcandal in relation to his Majeſties Royal Father of bleſſed memory,</hi> was ſufficiently vindica<g ref="char:EOLhyphen"/>ted for which (being <hi>an. 1647.</hi> taken by a party of them) I hardly eſcaped death,</p>
+            <div type="part">
+               <pb facs="tcp:48177:2"/>
+               <head>A Brief Relation of <hi>Dr. Bernards Sufferings</hi> for his <hi>Majeſty,</hi> and of his preſerving the <hi>Lives</hi> and <hi>E<g ref="char:EOLhyphen"/>ſtates,</hi> and <hi>Releiving</hi> the neceſſities of many of his fellow Sufferers, both in <hi>England</hi> and <hi>Ireland.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>I.</hi> His Sufferings in <hi>Ireland.</hi>
+                  </head>
+                  <p>WHen <hi>Drogheda</hi> was taken by the Army, under the Command of the Lord <hi>Marqueſs</hi> of <hi>Ormond,</hi> The Doctor was Inſtrumental with the Mayor of the Town, to the Proclaiming his Majeſty, and attended the Lord of <hi>Enchiquin</hi> at that Solemnity, and immediately went to the <hi>Church,</hi> and obſerved the publique Prayers for his <hi>Majeſty,</hi> and ſhort<g ref="char:EOLhyphen"/>ly after preached a <hi>Thanksgiving Sermon</hi> for it.</p>
+                  <p>After that he waited upon the Lord <hi>Leiutennant</hi> at his <hi>Camp</hi> before <hi>Dublyn,</hi> who afterwards coming to <hi>Drogheda</hi> was a further witneſſe of the Doctors conſtancy to his <hi>Majeſty,</hi> and when his Lordſhip was called away, upon <hi>Oliver Cromwells</hi> landing, the Doctor being the Miniſter of the place, and ha<g ref="char:EOLhyphen"/>ving his family there, could not deſert them, but was left there behind, though by his friends (eſpecially Sir <hi>Robert Byron,</hi> apprehending his danger) he was adviſed to be gone.</p>
+                  <p>When that <hi>Town</hi> was <hi>Stormed</hi> and all that bare Armes in it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut to the ſword, the <hi>Doctor</hi> could gain no <hi>Protection</hi> (though many others had) but was left to the mercy of the Souldiers, ſo as all he had was taken from him, and himſelf deſigned to Death, by many that had vowed it, though by Gods ſpecial mercy he was <hi>preſerved,</hi> too large to be inſerted here.</p>
+                  <p>After this he was turned out of his Benefice at <hi>Drogheda,</hi> and Sent for up to <hi>Dublyn</hi> as a <hi>Delinquent;</hi> and there com<g ref="char:EOLhyphen"/>mitted by <hi>Cromwel</hi> himſelf in the open ſtreets, in the midſt of his officers, with menaces of <hi>Death</hi> for his promoting of the Kings ſervice as before ſaid, and was cloſe priſoner 17 dayes, and upon ſecurity was confined within the City of <hi>Dublyn</hi> for 6 months after.</p>
+                  <pb facs="tcp:48177:2"/>
+                  <p>One ſpecial charge againſt him then, was his continuance of the uſe of the <hi>Book of Common Prayer,</hi> in his Church to the laſt, notwithſtanding the <hi>Inhibition</hi> ſent to him by Colonel <hi>Michael Jones,</hi> who thereupon ſtopped all the payments which had been allowed him.</p>
+                  <p>His <hi>Concio ad Clerum,</hi> when he took his degree of Doctor at <hi>Dublyn,</hi> 1642. was then remembred againſt him, where<g ref="char:EOLhyphen"/>in he had at larg declared, that the <hi>taking up of Armes then againſt his Majeſties Royal Father of bleſſed memory,</hi> was un<g ref="char:EOLhyphen"/>lawful, according to the <hi>Text, (Rom.</hi> 13.2.) whereupon a re<g ref="char:EOLhyphen"/>liefe intended him out of <hi>England,</hi> was ſtopped by the Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Parliament</hi> then in <hi>Dublyn.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>II.</hi> His Sufferings in <hi>England.</hi>
+                  </head>
+                  <p>THough he were permitted by <hi>Cromwel</hi> to preach at <hi>Greys-Inne,</hi> yet he was rendred incapable of any other Benefice, when by the joynt deſire of the Pariſhoners of St. <hi>Martins</hi> in the Fields, he was invited thither, and had ſeveral other offers.</p>
+                  <p>And when the Earle of <hi>Bridgewater</hi> had beſtowed upon him a living worth 400 pound a year, and he was legally inducted to it, yet upon <hi>Cromwells</hi> teſtimony of his proclaiming his <hi>Majeſty,</hi> as aforeſaid, he could not be permitted to enjoy it.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>III.</hi> His endeavours to preſerve many of the <hi>Lives</hi> and <hi>Eſtates,</hi> of ſuch as have ſuffered for his <hi>Majeſty.</hi>
+                  </head>
+                  <p>SIr <hi>Maurice Euſtace,</hi> and about five or ſix others, who were eminent in the Kings ſervice, being committed together priſoners at <hi>Cheſter,</hi> their releaſe both as to <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> were obtained by him, their acknowledgment of which he hath under all their hands in one paper.</p>
+                  <p>He obtained a pardon for Sir <hi>Robert Byron,</hi> when he was condemned to dye by <hi>Hewſon</hi> at <hi>Dublin.</hi>
+                  </p>
+                  <p>He procured the like for the <hi>Lord Grandiſon.</hi> He obtained an order for <hi>Major Perkins,</hi> to be reſtored to his Eſtate in <hi>Ireland.</hi>
+                  </p>
+                  <p>And for his ſervice to the <hi>Lady Marchioneſſe of Ormond</hi> at her comming out of <hi>France,</hi> when She was remanded back
+<pb facs="tcp:48177:3"/> gain, he humbly ſubmits to her <hi>Ladyſhips</hi> own teſtimony.</p>
+                  <p>He procured about 300 l. for Sir <hi>Henry Tuchborn,</hi> after he had with his <hi>Lady</hi> &amp; family attended long in vain, &amp; was in deſpair of any; &amp; obtained for him ſeveral <hi>orders,</hi> touching his eſtate in <hi>Ireland,</hi> &amp; the like for Sir <hi>Francis Willowby</hi> with many others.</p>
+                  <p>When a <hi>barbarous</hi> and <hi>cruell</hi> order was made againſt the <hi>E<g ref="char:EOLhyphen"/>piſcopall</hi> Clergy to their utter undoing; he did boldly deliver his ſenſe of it, and prevailed with the late <hi>Primate</hi> of <hi>Ireland</hi> to come to Town of purpoſe, in hope that his <hi>Authority</hi> might have prevailed with <hi>Cromwell,</hi> and others to revoke it: and for three weeks together, attended upon his <hi>Graces</hi> endeavours therein though it proved ineffectuall; and when there was an offer for a <hi>contribution</hi> for them throughout <hi>England,</hi> (ſo as they might have <hi>Cromwells</hi> licence for it;) the <hi>Dr.</hi> improved his ut<g ref="char:EOLhyphen"/>moſt intereſt to obtaine it, and petitioned for them in his own name, and put his hand to it, he delivered their remonſtrance or petition: and what elſe was penned by others for that end (which hath been ſince publiſhed) was delivered to <hi>Oliver Cromwell</hi> by his hand.</p>
+                  <p>He obtained ſeverall letters of recommendation, for perſons in <hi>Ireland</hi> (as the now Biſhop of <hi>Kilmore</hi> and others) and or<g ref="char:EOLhyphen"/>ders for keeping in and reſtoring Miniſters (as Mr. <hi>Hunt</hi> of <hi>Cheſter</hi> and others) to their <hi>Benefices</hi> and Eſtates in <hi>England</hi> and was a conſtant Agent for them: and though his <hi>endeavours</hi> were not alwayes anſwered with a deſired <hi>effect,</hi> yet his trouble was the ſame; and the charge in <hi>letters,</hi> and returnes in thoſe ſolici<g ref="char:EOLhyphen"/>tations was not ſmall. Some being caſt into priſon (<hi>as Sir Tho<g ref="char:EOLhyphen"/>mas Armſtrong</hi> who was a long time in the Gate-houſe) he ſoli<g ref="char:EOLhyphen"/>cited their buſineſſe to his utmoſt endeavour for their releaſe: others condemned to dye, he did the like for their pardon or reprivall.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>IV.</hi> His <hi>Relief</hi> of thoſe who ſuffered in their <hi>Eſtates</hi> and <hi>Liberty,</hi> for his <hi>Majeſtty,</hi> which was the cauſe of his acceptance of the <hi>Almoners</hi> place, that he might be ſerviceable to that end. He diſburſed</head>
+                  <list>
+                     <item>TO Dr. <hi>Bromrigg</hi> the late <hi>Biſhop</hi> of <hi>Exeter</hi> (the receipts of which are ready to be produced) 150 <hi>l.</hi>
+                     </item>
+                     <pb facs="tcp:48177:3"/>
+                     <item>To the late Lord <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> is ready to be produced) 250 <hi>l.</hi>
+                     </item>
+                     <item>To a Lord of <hi>Ireland,</hi> 10 <hi>l.</hi>
+                     </item>
+                     <item>To a <hi>Biſhop</hi> of <hi>Ireland</hi> (for a debt compounded for) 15 <hi>l.</hi>
+                     </item>
+                     <item>To the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ame <hi>Biſhop</hi> in his extream poverty at ſeveral times, 20 <hi>l.</hi>
+                     </item>
+                     <item>To a <hi>Dean</hi> of <hi>Ireland</hi> 8 <hi>l.</hi>
+                     </item>
+                     <item>To Mr. <hi>Durant</hi> a Sequeſtred Miniſter (who had 10 chil<g ref="char:EOLhyphen"/>dren) 6 <hi>l.</hi>
+                     </item>
+                     <item>To a Captain, who was at <hi>Drogheda</hi> when it was ſtormed, and now in <hi>Virginia</hi> 20 <hi>l.</hi>
+                     </item>
+                     <item>To <hi>Dennis Sheriden</hi> (who coming from <hi>Bruſſels,</hi> was conceiv<g ref="char:EOLhyphen"/>ed to have been employed into <hi>Ireland</hi> upon his <hi>Majeſties</hi> ſervice) 8 <hi>l.</hi>
+                     </item>
+                     <item>To a Captain who had been faithful to the Lord <hi>Leivetenant</hi> in <hi>Ireland,</hi> being poor, at ſeveral times 30 <hi>l.</hi>
+                     </item>
+                     <item>To many other diſtreſſed <hi>Perſons, Miniſters, Widdowes,</hi> and others of quality relating unto <hi>Ireland,</hi> who are unwilling to have their names mentioned, 50 <hi>l.</hi>
+                     </item>
+                     <item>To diverſe <hi>Sequeſtred Miniſters,</hi> and others of quality, as meaner perſons, in their ſeveral diſtreſſes in <hi>England</hi> 40 <hi>l.</hi>
+                     </item>
+                     <item>To <hi>John Allen,</hi> the Lord <hi>Primates</hi> old ſervant, 8 <hi>l.</hi>
+                     </item>
+                     <item>To a perſon of ſome Eminency, upon the complaining of his poverty, the Doctor (having then no mony) gave him a Deputation for receiving the <hi>Almoners</hi> dues, in 2 or 3 Coun<g ref="char:EOLhyphen"/>ties, without accompt.</item>
+                     <item>He had once prepared 60 <hi>l.</hi> for his <hi>Majeſties Servants,</hi> but <hi>Cromwrl</hi> at that inſtant time ſent for him, and commanded him to give ſo much to the <hi>Jews,</hi> and accordingly 40 <hi>l.</hi> was paid to <hi>Manaſſes Ben-Iſrael</hi> whoſe receipt he hath, and <hi>Cromwel</hi> took the other 20 <hi>l.</hi> from him, pretending to pay it himſelf. Beſides what he gave to ſome <hi>Germans,</hi> and other <hi>Outlandiſh</hi> perſons, commended unto him, as to a <hi>Turk,</hi> baptiſed by Mr. <hi>Gunning,</hi> for clothes 8 <hi>l.</hi> 60 <hi>l.</hi>
+                     </item>
+                  </list>
+                  <p>About a year before <hi>Oliver Cromwells</hi> death, he was com<g ref="char:EOLhyphen"/>plained of, for giving what he had received as <hi>Almoner</hi> to diſ<g ref="char:EOLhyphen"/>affected perſons, and thereupon was called to an accompt: which he (knowing the danger of) deferring, he had been
+<pb facs="tcp:48177:4"/> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>Cromwel</hi> had lived a moneth longer.</p>
+                  <p>In a word, he layed up nothing for himſelfe (out of it) as he might have done, being without account, but by the <hi>loſſes</hi> he hath ſuffered, and the many <hi>ſuites</hi> wherein he hath been engaged, <hi>while</hi> he had the <hi>office,</hi> and <hi>ſince</hi> it was taken from him, he is the worſe by 300 <hi>l.</hi>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>
+                     <hi>V.</hi> In Relation to the <hi>Lord Primate</hi> of <hi>Ireland,</hi> he hath been further ſerviceable as followeth.</head>
+                  <p>The tranſcribing of a great <hi>Manuſcript</hi> which had been his 50 years ſtudy, (worthy of Dedication to his <hi>Majeſty</hi>) which was ſo interlin'd that it could not elſe be Printed, Laid out, and ingaged for it—40 <hi>l.</hi>
+                  </p>
+                  <p>He was at great labour and expence in the conſtant <hi>ſolicita<g ref="char:EOLhyphen"/>tion</hi> and receipt of his <hi>Penſion;</hi> which for one <hi>quarter</hi> onely was paid at the rate of 400 <hi>p.</hi> and after at 160 <hi>p.</hi> a year, as al<g ref="char:EOLhyphen"/>ſo for what was promiſed after his death to <hi>his,</hi> which through the <hi>iniquity</hi> of the times was not performed, who uſed this fraud, in calling that a graunt, which was onely <hi>ſigned,</hi> but not ſuffered to be <hi>ſealed.</hi>
+                  </p>
+                  <p>The Dr. <hi>preached</hi> his <hi>Funerall Sermon,</hi> buried him accord<g ref="char:EOLhyphen"/>ing to the book of <hi>Common Prayer,</hi> and obtained 200 <hi>l.</hi> to de<g ref="char:EOLhyphen"/>fray the charges of the <hi>Funerall.</hi>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>VI.</hi> In further Manifeſtation of his <hi>Integrity.</hi>
+                  </head>
+                  <p>As he ever uſed freedom of ſpeech to <hi>Cromwell</hi> in defence of <hi>Epiſcopacy,</hi> and the ſequeſtred <hi>Clergy</hi> both in publique and private, ſo he never altered his <hi>habit,</hi> though it cauſed him ma<g ref="char:EOLhyphen"/>ny affronts from the <hi>Phanatick</hi> party: and being once prevailed with to preach at the <hi>Cock-pit,</hi> where were diverſe of his <hi>Coun<g ref="char:EOLhyphen"/>cell</hi> and other grand <hi>Enemies</hi> to his <hi>Majeſty,</hi> he took his Text out of the 1. <hi>Tim.</hi> 3. <hi>In the laſt dayes, &amp;c. men ſhall be traytors, &amp;c. Hav<g ref="char:EOLhyphen"/>ing a form of godlineſſe, but denying the power thereof.</hi>
+                  </p>
+                  <p>A <hi>Biſhop</hi> had once <hi>conſecrated a Chappell,</hi> according to the uſuall form: the <hi>Miniſters</hi> in the Dioceſſe combined in a Pe<g ref="char:EOLhyphen"/>tition againſt him, the Dr. interceded, and ſo ordered the bu<g ref="char:EOLhyphen"/>ſineſſe, that he was diſmiſſed and heard no more of it.</p>
+                  <pb n="7" facs="tcp:48177:4"/>
+                  <p>He omits the <hi>gratuities,</hi> he gave to ſuch as did aſſiſt him in the obtaining of diverſe ſuites for thoſe that were diſtreſſed, and even to the <hi>meaner</hi> ſervants, for ſome ſeaſonable admit<g ref="char:EOLhyphen"/>tance for thoſe ends; and the <hi>long</hi> attendance till 11 a clock at night, taking a lodging frequently there abouts, upon ſuch occaſions, often to the hazard of his <hi>health</hi> and <hi>life,</hi> in cold and unſeaſonable weather, all which he would have given over l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g before, being every way diſpleaſing to him, by the hatred of the Army, and the Miniſters there attending, but that it was the requeſt of diverſe diſtreſſed perſons to continue it.</p>
+                  <p>When <hi>the Army</hi> and <hi>Citty of London</hi> were at difference, (un<g ref="char:EOLhyphen"/>der the Committee of Safety) before <hi>Generall Monck</hi> appeared, he had prevailed with a <hi>principall</hi> perſon for the <hi>uniting</hi> of both, and <hi>Proclaiming</hi> of his <hi>Majeſty</hi> in <hi>London,</hi> upon his undertaking to have procured their pardon, and it was once ſo far proceed<g ref="char:EOLhyphen"/>ed in, that he was preparing to go <hi>beyond Seas</hi> for that end.</p>
+                  <p>His often free and faithfull diſcourſe with the <hi>L. Generall Monk</hi> himſelfe, in relation to his <hi>Majeſty,</hi> when his actions were <hi>variouſly</hi> interpreted, he ſubmits to his Teſtimony.</p>
+                  <p>For <hi>theſe nine years</hi> paſt at <hi>Grayes-Inne</hi> he hath according to the <hi>Book of Common Prayer</hi> celebrated the <hi>Communion,</hi> and did the like elſewhere. In Baptiſme, Marriages, Burialls, &amp;c. ne<g ref="char:EOLhyphen"/>ver uſing any other.</p>
+                  <p>And the employing his endeavours in ſome tracts publiſhed for an accommodation betwixt the <hi>Epiſcopall</hi> and <hi>Presbyterian</hi> parties, hath been in order to his Majeſties ſervice, and the Church, wherein he is ſtill ready to ſpend himſelf.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Rectifying of ſome miſapprehenſions of him, concerning the <hi>Office</hi> of <hi>Almoner.</hi>
+               </head>
+               <p>THe Dr. was not <hi>abſolutely</hi> made <hi>Almoner</hi> by <hi>Oliver Crom<g ref="char:EOLhyphen"/>well,</hi> but <hi>onely</hi> joyned in the Patent with <hi>Dr. French</hi> his Brother in Law (by which what little intereſt was intended for him, doth eaſily appear) and he <hi>dying</hi> a quarter of a year after, it fell to the Dr. as ſurviver; which was taken notice of then as a <hi>Providence</hi> of being by it put in a capacity of doing good to thoſe as had ſuffered in the like cauſe with himſelfe, and
+<pb n="8" facs="tcp:48177:5"/> was deſired by ſuch to accept of it for that end, and now there was ſo little <hi>truſt</hi> put in him, that when any thing of <hi>va<g ref="char:EOLhyphen"/>lue</hi> fell, <hi>Cromwell</hi> took it to himſelfe.</p>
+               <p n="1">I. In ſpecial the eſtate of <hi>William Tombs</hi> found a <hi>Fellon of him<g ref="char:EOLhyphen"/>ſelf</hi> (which was the greateſt that fell in his time) the whole was by a ſpecial order from <hi>Cromwell</hi> taken from him, and put into the hands of <hi>Major Worſeley,</hi> who took it up accordingly, and what little of it came to his hands, an account of it was made to him;</p>
+               <p>He is the worſe by a 100 <hi>p.</hi> by the loſſes and charges he hath been at, about that one buſineſſe, which are not yet ſatisfied; and is now diſturbed upon that ſurmiſe of receiv<g ref="char:EOLhyphen"/>ing, in ſeverall ſuites to his great moleſtation.</p>
+               <p n="2">II. There hath been a buſineſſe which hath occaſioned much diſcourſe to his great injury concerning one <hi>Mr. Barkley</hi> who was found a <hi>Felon of himſelf,</hi> and ſo clearly by ſeverall depoſitions, that the like can ſcarce be paralel'd: yet an other inquiſition was ordered without any inſufficiency found in the firſt, and in that manner which hath no preſident that his Councell knows of.</p>
+               <p>The whole narration of the <hi>proceedings</hi> in it, are too long to be here inſerted, the Dr. hath, and doth ſtill ſuffer much in<g ref="char:EOLhyphen"/>jury by the adverſe parties <hi>free diſcourſe</hi> of him in it, <hi>ſome of whom he very much honours which encreaſeth his griefe,</hi> onely this will be his <hi>juſtification</hi> with thoſe that are ſtrangers to him and the Caſe; that he hath &amp; doth offer it to <hi>any juſt, prudent, uninte<g ref="char:EOLhyphen"/>reſſed perſons whatſoever,</hi> and will bind himſelf to ſtand to his or their Arbitrement: the deniall of which argues ſome diffi<g ref="char:EOLhyphen"/>dence they have of theirs, and he is aſſured by his Councel, the firſt inquiſition ſtands yet firm in Law, and ſo his Majeſties Ti<g ref="char:EOLhyphen"/>tle to the eſtate: which he onely defends, and layes it down at his <hi>Majeſties</hi> feet.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:48177:5"/>
+               <head>A brief Relation of that <hi>Bloody Storm</hi> at <hi>Drogheda,</hi> in <hi>Ireland,</hi> and the Doctors Sufferings by <hi>Oliver Cromwel</hi> in it, and after it, with his Preſervation.</head>
+               <p>THe 3d <hi>of September</hi> 1649, was the firſt day <hi>Oliver Crom<g ref="char:EOLhyphen"/>well</hi> came before it, in making any attempt to that end; he had a 11 thouſand Horſe and Foot, compleatly provided, the Town had 3500. two dayes he battered, upon the ſecond day about five of the clock in the afternoon, he aſſaulted it, but received a <hi>repulſe;</hi> yet returning again took it: the <hi>word</hi> was given throughout his Army, <hi>no quarter;</hi> the <hi>Mill mount</hi> where the Governour Sir <hi>Arthur Aſton</hi> was with about 300 men, was yielded upon promiſe of quarter, but as ſoon as it was poſſeſſed by them, all were put to the Sword<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when the Town was fully taken, the <hi>Doctors Houſe</hi> was one of the firſt the Soldiers fell upon, but by the ſtrength of it could not enter; The <hi>Mayor</hi> of the Town, and diverſe other of the <hi>Principall</hi> men that were <hi>Proteſtants</hi> to the number of about 30 came in<g ref="char:EOLhyphen"/>to it for refuge.</p>
+               <p>There came 5 or 6 who were ſent from a <hi>principall Officer,</hi> (the Doctors former acquaintance) under a pretence of a guard for his houſe, but had a Command from him, as ſoon as they were entred to kill him, (which an <hi>earwitneſſe</hi> hath ſince aſ<g ref="char:EOLhyphen"/>ſured him of;) the <hi>Dr.</hi> denying to open the door to them, one of them diſcharged a <hi>Musket Bullet</hi> at him: it paſſed through the door, and onely fired the skin of one of his fingers leaving a ſpot upon it, which burned 4 or 5 dayes after, and did him no more hurt.</p>
+               <p>Then a <hi>Cornet</hi> of a Troop of horſe, came to his releife, and pretending he had order from the <hi>Generall</hi> to take care of that houſe, the Souldiers withdrew, and ſo at a <hi>Back-door</hi> he brought in his <hi>Quarter-Maſter,</hi> whom he left to ſecure him. About a quarter of an hour after, another Troop of Horſe came to the window &amp; demanded the opening of the door. <hi>The Quarter-Maſter</hi> and himſelfe with an old ſervant left with him, (for he had ſent his Wife and Children out of Town) ſtood cloſe together, and told them it was the Miniſters
+<pb n="10" facs="tcp:48177:6"/> Houſe, and <hi>all therein were Proteſtants,</hi> as ſoon as they heard the <hi>D. named,</hi> and his <hi>voice,</hi> one of them diſcharged his <hi>Piſtoll</hi> at him, wherein being a <hi>brace of Bullets</hi> with the one the <hi>Quarter-Maſter</hi> was ſhot quite through the Body, and dyed in the place, and the other ſhot his ſervant through the throat, but recover<g ref="char:EOLhyphen"/>ed; the Dr. was <hi>onely untouched.</hi> After this he made a ſtand at another place, and ſeeing the Souldiers, breaking in at a low window, he went up to his <hi>Study,</hi> where his ſaid friends were making great <hi>Lamentation,</hi> expecting <hi>preſent death,</hi> they all kneeled down, and commended their ſoules to God. No ſooner had the Dr. <hi>begun,</hi> but in comes the Souldiers, and interrupts them, threatning them with <hi>Bullets,</hi> but it pleaſed God they were ſo mollified that they onely took all they had about them, and fell upon the ſpoyle of the houſe. In the midſt of theſe confuſions comes one <hi>Colonel Ewres</hi> (whom the <hi>Dr.</hi> had not ſeen in 16 years before, and knew not of his being there) and took up his houſe for his quarters, turned the Souldiers out, and made the doores faſt for himſelf.</p>
+               <p>Not long after came <hi>Colonel Hewſon,</hi> and told the Dr. he had orders to blow up the <hi>Steeple</hi> (which ſtood between the quier and the Body of the Church) where about <hi>threeſcore men</hi> were run up for refuge, but the three Barrells of Powder which he cauſed to be put under it for that end, blew up onely the <hi>body of the Church,</hi> and the next night <hi>Hewſon</hi> cauſed the ſeates of the Church to be broken up, and made a great pile of them under the Steeple, which firing, it took the lofts wherein five great <hi>Bells</hi> hung, and from thence it flamed up to the top, and ſo at once <hi>Men, and Bells, and Roof</hi> came all down together, the moſt hideous ſight and terrible cry, that ever he was wit<g ref="char:EOLhyphen"/>neſſe of at once.</p>
+               <p>The next day the <hi>Colonel</hi> that had ſaved the <hi>Drs.</hi> life comes to him, and tells him he was very <hi>ſharply checked</hi> for it, by the <hi>Generall</hi> and many of the <hi>Officers,</hi> and that he muſt yet expect to dye, that no Protection could be had for him; which was confirmed unto him by others alſo, whereupon divers that came to ſee him took their leaves as <hi>never</hi> to ſee him again, and the number of the <hi>dead bodies</hi> (with which the <hi>Church-yard</hi> and <hi>Streets</hi> were filled already) daily encreaſing, even in <hi>coole</hi> blood to the number of 3500 gave him little hope of the con<g ref="char:EOLhyphen"/>trary:
+<pb n="11" facs="tcp:48177:6"/> that which at preſent <hi>repreived</hi> him, was <hi>Col. Ewres</hi> ſending two of his Officers which were wounded to lie there.</p>
+               <p>Then was the Proclaiming of his <hi>Majeſty,</hi> inciting and en<g ref="char:EOLhyphen"/>couraging of the Army, and what elſe might ſavour ill with the Souldiers, muſtered up againſt him.</p>
+               <p>The next day <hi>Oliver Cromwel,</hi> with many of his Officers, came to the Doctors houſe, began with aſperſing his <hi>Ordination</hi> as <hi>Popiſh,</hi> then the late <hi>Arch Biſhop</hi> of <hi>Armagh,</hi> from whom he had received it, then his <hi>Majeſties Title,</hi> and the Doctors <hi>Praying</hi> for him came into diſcourſe: the diſputes of which with divers other Subjects, which laſted about three quarters of an hower, would be impertinent to be related here, but when he found the <hi>Dr.</hi> to be of that judgement he had heard, he left him without any aſſurance of life, onely gave order to the <hi>Governour</hi> to have him ſent up to <hi>Dublyn</hi> as a <hi>Priſoner.</hi> When he came there, it ſo fell out, that he met <hi>Cromwel</hi> himſelf, with his officers in the ſtreets, where, after great <hi>Menaces that he would make him an Example,</hi> and expreſly threatning him with <hi>pronouncing the ſentence of death upon him,</hi> committed him to priſon: as he was carried away, beſide the votes of all the officers againſt him, <hi>Hugh Peeters</hi> fell moſt upon him, who (as was affirmed then) had blamed <hi>Cromwel</hi> for ſaving of his life ſo long.</p>
+               <p>Seaventeen dayes he was cloſe priſoner, and afterwards up<g ref="char:EOLhyphen"/>on Bonds confined ſix months within the City, and after that ſent for up to the Army at <hi>Clonmel,</hi> permitted to come then with <hi>Cromwel</hi> into <hi>England,</hi> where to himſelf he never varied in any diſcourſe in the ſaid Subjects, from what he had ſaid to him at the firſt ſight of him.</p>
+               <p>Thus far his ſufferings in that ſtorm, and his Deliverance.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:48177:7"/>
+               <head>Some Articles Objected againſt the <hi>Doctor,</hi> while he was a <hi>Priſoner</hi> in <hi>Dublyn.</hi>
+               </head>
+               <list>
+                  <item>I THat he had refuſed to obey Col. <hi>Michael Jones</hi> his order, for the forbearing the uſe of <hi>Common Prayer,</hi> in his Church at <hi>Drogheda.</hi>
+                  </item>
+                  <item>II. That he had Preached a <hi>Thanksgiving Sermon,</hi> for the taking of the Town of <hi>Drogheda,</hi> by the Lord of <hi>Inchiquin,</hi> under the Command of the Lord <hi>Marqueſſe</hi> of <hi>Ormond.</hi>
+                  </item>
+                  <item>III. That he ſaluted one Col. <hi>Trenchard,</hi> with great joy the Town was taken, accordingly for the King.</item>
+                  <item>IV. That he moved the <hi>Mayor</hi> of the Town to come in his Scarlet to the proclaming of the <hi>King,</hi> and that he at<g ref="char:EOLhyphen"/>tended at it himſelf, and went immediately to the Church, and obſerved the Book of <hi>Common Prayer,</hi> &amp; in ſpecial thoſe prayers for him.</item>
+                  <item>V. His Praying for the Lord <hi>Marqueſſe</hi> of <hi>Ormond,</hi> as Lord <hi>Leiutenant</hi> of <hi>Ireland,</hi> then beſeiging of <hi>Dublyn.</hi>
+                  </item>
+                  <item>VI. His praying for a Confuſion upon <hi>Oliver Cromwells</hi> Army while he was beſeiging <hi>Drogheda.</hi>
+                  </item>
+                  <item>VII. His withdrawing of ſome Commanders and Soul<g ref="char:EOLhyphen"/>diers, from the ſervice of the Parliament, and in ſpecial the ſpeeches of one of their Captains upon his death bed pro<g ref="char:EOLhyphen"/>duced, in complaining of the Doctor to that purpoſe.</item>
+                  <item>VIII. That he was with he Lord <hi>Marqueſſe</hi> of <hi>Ormond</hi> at his <hi>Camp</hi> before <hi>Dublyn.</hi>
+                  </item>
+                  <item>IX. That he refuſed to goe with the Parliament Army, out of the Town of <hi>Drogheda,</hi> but ſtaid with the Lord of <hi>Inchiquin</hi> and his party in it, attended the Lord <hi>Marqueſſe</hi> of <hi>Ormond,</hi> when he came back to it, the keeping of a <hi>Faſt,</hi> and Preaching before him, and praying accordingly for a good ſucceſſe upon his deſignes.</item>
+                  <item>X. That he had employed his parts, (to uſe the very words as it was written to him) <hi>againſt the Saints, and that Intereſt which the Lord Jeſus is now bringing forth into the world.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>And thus he hath been compelled againſt his own diſpoſition to reckon up thoſe things which elſe he had not ſo much as mentioned, he having in all this done and ſuf<g ref="char:EOLhyphen"/>fered but that</hi> which was his duty to do.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48177:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
